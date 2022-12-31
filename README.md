@@ -1,4 +1,12 @@
 # ISZ-Spectator-Mod
-Spectator mod for isz.
+- A spectator "mod" for Ice Station Z.
 
-you need CTRPF to use it
+# Features:
+- Spectate Players, Zombies, & Geese.
+- Freecam to move around freely.
+
+# Downloads:
+- [FreeCam Only (v1.0)]()
+- [FreeCam + Spectate Players (v1.1)]()
+
+# Screenshots:
